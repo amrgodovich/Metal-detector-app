@@ -1,4 +1,4 @@
-# lmao
+# Metal detector
 
 A new Flutter project.
 
